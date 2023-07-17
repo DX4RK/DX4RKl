@@ -1,16 +1,20 @@
-### Hi there 👋
+```css
+C:\Users\nolan>hi
 
-<!--
-**DX4RKl/DX4RKl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+################   ################      nolan@info
+################   ################      ──────────
+################   ################      👤 User: DX4RKl
+################   ################      🔞 Age: ?
+################   ################      🌍 Country: France
+################   ################      🌐 Website: https://atlas-experences.xyz
+################   ################      🔗 Discord: nolans
+                                         
+################   ################      nolan@stats
+################   ################      ──────────
+################   ################      ⭐ Luau 9/10
+################   ################      🐍 Python 7/10
+################   ################      🧠 Brain 0/10
+################   ################      💸 Yes :troll:
+################   ################
+```
+[![Discord Presence](https://lanyard.cnrad.dev/api/951590838897623050)](https://discord.com/users/951590838897623050)
